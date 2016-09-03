@@ -1,8 +1,13 @@
+Microsoft FastTrack - free migration assistance
+https://technet.microsoft.com/en-us/library/office-365-onboarding-benefit-process.aspx
+--------------------------------------------------------------
+
 E3 vs Small Business comparison
 https://www.reddit.com/r/msp/comments/3p003a/selling_o365_e3_vs_business_premium_why_should_i/
 
 E3 has Azure Rights Management which is encrypted email(for clients subject to HIPAA). Can also sell ARM separately to Small Business plans as an azure service. Meaning can SMARSH be dropped for archiving/journaling that comes with E3?
 --------------------------------------------------------------
+
 Azure AD Connect?
 https://www.reddit.com/r/msp/comments/4ettv2/azure_ad_connect_with_small_customers_using_o365/
 
