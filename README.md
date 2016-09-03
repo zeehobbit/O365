@@ -1,8 +1,6 @@
-
-
-
 Spam Filter: Built-in O365 vs gateway companies https://www.proofpoint.com/us/GartnerMQ-Secure-Email-Gateways-43
 --------------------------------------------------------------
+
 Change Message size 25mb->150mb
 https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/
 --------------------------------------------------------------
