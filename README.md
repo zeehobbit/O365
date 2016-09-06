@@ -37,3 +37,6 @@ Manage Domains and Network Requirements in Office 365 - https://mva.microsoft.co
 
 SharePoint and Office 365 Cloud-Connected Hybrid Scenarios - https://mva.microsoft.com/en-US/training-courses/sharepoint-and-office-365-cloudconnected-hybrid-scenarios-14078?l=YpspLDomB_9000115881
 
+---
+##Your Office 365 Implementation Checklist - How to plan the switch
+http://blog.templafy.com/office-365-implementation-checklist
