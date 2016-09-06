@@ -3,29 +3,21 @@
 
 ---
 
-### E3 vs Small Business comparison
+### [Reddit:E3 vs Small Business comparison](https://www.reddit.com/r/msp/comments/3p003a/selling_o365_e3_vs_business_premium_why_should_i/)
 
-https://www.reddit.com/r/msp/comments/3p003a/selling_o365_e3_vs_business_premium_why_should_i/
-
-E3 has Azure Rights Management which is encrypted email(for clients subject to HIPAA). Can also sell ARM separately to Small Business plans as an azure service. Meaning can SMARSH be dropped for archiving/journaling that comes with E3?
+"E3 has Azure Rights Management which is encrypted email(for clients subject to HIPAA). Can also sell ARM separately to Small Business plans as an azure service. Meaning can SMARSH be dropped for archiving/journaling that comes with E3?"
 
 ---
 
-### Azure AD Connect discussion
-
-https://www.reddit.com/r/msp/comments/4ettv2/azure_ad_connect_with_small_customers_using_o365/
+### [Reddit:Azure AD Connect discussion](https://www.reddit.com/r/msp/comments/4ettv2/azure_ad_connect_with_small_customers_using_o365/)
 
 ---
 
-### Free(Trial) O365 migration for 1-250 users
-
-https://www.skykick.com/migrate
+### [Free(Trial) O365 migration for 1-250 users](https://www.skykick.com/migrate)
 
 ---
 
-### Spam Filter: Built-in O365 vs gateway companies 
-
-https://www.proofpoint.com/us/GartnerMQ-Secure-Email-Gateways-43
+### [Spam Filter: Built-in O365 vs gateway companies ](https://www.proofpoint.com/us/GartnerMQ-Secure-Email-Gateways-43)
 
 ---
 
