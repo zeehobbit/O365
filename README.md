@@ -1,9 +1,9 @@
-##Microsoft FastTrack - free migration assistance
+### Microsoft FastTrack - free migration assistance
 https://technet.microsoft.com/en-us/library/office-365-onboarding-benefit-process.aspx
 
 ---
 
-## E3 vs Small Business comparison
+### E3 vs Small Business comparison
 
 https://www.reddit.com/r/msp/comments/3p003a/selling_o365_e3_vs_business_premium_why_should_i/
 
@@ -11,31 +11,31 @@ E3 has Azure Rights Management which is encrypted email(for clients subject to H
 
 ---
 
-##Azure AD Connect discussion
+### Azure AD Connect discussion
 
 https://www.reddit.com/r/msp/comments/4ettv2/azure_ad_connect_with_small_customers_using_o365/
 
 ---
 
-## Free(Trial) O365 migration for 1-250 users
+### Free(Trial) O365 migration for 1-250 users
 
 https://www.skykick.com/migrate
 
 ---
 
-## Spam Filter: Built-in O365 vs gateway companies 
+### Spam Filter: Built-in O365 vs gateway companies 
 
 https://www.proofpoint.com/us/GartnerMQ-Secure-Email-Gateways-43
 
 ---
 
-## Change Message size 25mb->150mb
+### Change Message size 25mb->150mb
 
 https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/
 
 ---
 
-##MS Academy
+### MS Academy
 
 Office 365 Fundamentals
 
@@ -63,6 +63,6 @@ https://mva.microsoft.com/en-US/training-courses/sharepoint-and-office-365-cloud
 
 ---
 
-##Your Office 365 Implementation Checklist - How to plan the switch
+### Your Office 365 Implementation Checklist - How to plan the switch
 
 http://blog.templafy.com/office-365-implementation-checklist
